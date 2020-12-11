@@ -6,7 +6,9 @@
 
 <p align="center">
 Konsultasi dengan
-dokter jadi lebih
+dokter
+<br/>
+jadi lebih
 mudah & fleksibel
 </p>
 
