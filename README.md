@@ -10,7 +10,7 @@
 </p>
 
 
-![zwallet](https://user-images.githubusercontent.com/69374541/101905882-b4678000-3bea-11eb-8138-56338eae62e6.jpg)
+![w](https://user-images.githubusercontent.com/69374541/101909062-92243100-3bef-11eb-851a-6837468698e3.jpg)
 
 
 ### # ABOUT
