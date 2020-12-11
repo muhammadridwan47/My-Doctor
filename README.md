@@ -5,8 +5,9 @@
 </h1>
 
 <p align="center">
-	<strong>Simpan uang tanpa dompet</strong><br>
-	Katakan <strong>Selamat Tinggal</strong> pada dompetmu <i>Sekarang</i>.
+Konsultasi dengan
+dokter jadi lebih
+mudah & fleksibel
 </p>
 
 
